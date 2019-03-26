@@ -78,6 +78,7 @@ public class SolrTest {
             System.out.println(bean);
         }
         System.out.println("来了");
+        System.out.println("xiaozhang");
         System.out.println("小泽");
 
     }
