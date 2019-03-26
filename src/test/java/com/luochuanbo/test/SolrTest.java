@@ -77,7 +77,7 @@ public class SolrTest {
             System.out.println("================");
             System.out.println(bean);
         }
-
+        System.out.println("来了");
 
     }
 
