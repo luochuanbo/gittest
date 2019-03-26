@@ -70,7 +70,6 @@ public class Product {
         this.picture = picture;
     }
 
-
     @Override
     public String toString() {
         return "Product{" +
