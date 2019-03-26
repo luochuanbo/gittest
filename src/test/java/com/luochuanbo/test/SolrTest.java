@@ -80,6 +80,7 @@ public class SolrTest {
         System.out.println("来了");
         System.out.println("xiaozhang");
         System.out.println("小泽");
+        System.out.println("大幅度");
 
     }
 
